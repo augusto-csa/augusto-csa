@@ -11,7 +11,6 @@
 - Estudante de **Ciência da Computação** na **UESB**, cursando o **7º semestre**
 - Atualmente aprofundando conhecimentos em **Java (SpringBoot) e JavaScript (React)**
 - Treinando **Programação Competitiva**
-- Estudando **Inglês** para me comunicar melhor
 
 ---
 
